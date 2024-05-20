@@ -1,0 +1,5 @@
+pyTelegramBot
+Flask
+keep_alive
+Thread
+google.generativeai
