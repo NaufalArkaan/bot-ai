@@ -1,3 +1,4 @@
+pyTelegramBot==4.17.0
 Flask
 keep_alive
 Thread
